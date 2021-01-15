@@ -11,7 +11,8 @@ This data contains scraped data and has the following information:
 ➢ Dataset information
   • Contains 6347 rows
   • Contains 18 columns
-  • The various attributes are:
+  
+➢ The various attributes are:
     1. Price (₹)
     2. Area (sq. ft.)
     3. Location
