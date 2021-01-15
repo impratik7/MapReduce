@@ -1,4 +1,4 @@
-#number of houses which are for resale
+#number of houses which are resale
 from mrjob.job import MRJob
 
 class NumByOld(MRJob):
