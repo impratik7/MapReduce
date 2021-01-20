@@ -10,7 +10,7 @@ This data contains scraped data and has the following information:
   3) Information about various amenities provided
 
 ➢ Dataset information
-  • Contains 6347 rows
-  • Contains 18 columns
+  • 6347 rows
+  • 18 columns
   
 
